@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreea-manuela-fratean/)
 
 ## 💻 Skills and Tools
